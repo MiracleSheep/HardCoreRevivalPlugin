@@ -1,0 +1,6 @@
+#This controls whether or not you want the hardcorerevival plugin to be enabled
+Enabled: true
+
+#This controls whether or not you want everyone to be revived for one revival crystal.
+# True means everyone will be revived when using a revival crystal and false means you have to select one player with a menu
+Revive_All: false

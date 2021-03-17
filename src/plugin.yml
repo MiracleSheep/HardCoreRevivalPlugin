@@ -1,0 +1,12 @@
+name: HardCoreRevival
+version: 1.0
+author: MiracleSheep
+main: com.MiracleSheep.HardCoreRevival.HardCoreRevival
+api-version: 1.14
+commands:
+  test:
+    description: Lists the rules of the server
+    usage: /<command>
+    aliases: [law]
+
+
